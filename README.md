@@ -27,7 +27,8 @@ Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP
 18. [Tencent Cloud](#18-tencent-cloud)
 19. [Vercel](#19-vercel)
 20. [Zeabur](#20-zeabur)
-
+21. [Catalyst by Zoho](#21-catalyst-by-zoho)
+    
 ## 1. AWS
 
 Homepage: [AWS Free Tier](https://aws.amazon.com/free/)
@@ -268,3 +269,56 @@ Homepage: [Zeabur](https://zeabur.com/pricing)
 
 - 100GB outbound data transfer per month
 - US$ 5 usage fee per month
+
+## 21. Catalyst by Zoho
+
+Homepage: [Catalyst by Zoho Free Tier](https://catalyst.zoho.com/free-tier.html)
+
+### Free for Limited-time
+ - [250$ Free credits, 6 months, upon sign up](https://catalyst.zoho.com/pricing.html)
+
+### Always Free
+
+**AI/ML**
+
+* ZiaServices: 100 API calls free per month
+* QuickML:
+  - Model Prediction: 500 calls free per month
+  - Model Storage: 1 GB free per month
+  - Model Training: 1,800 vCPU seconds and 1,800 GB-seconds free per month
+* ConvoKraft: 1,000 messages free per month
+
+**Serverless**
+
+* Functions: 25,000 GB-seconds free per month
+* Circuits: 2,000 state transitions free per month
+* AppSail: 15 GB-hours free per month
+
+**Backend**
+
+* SmartBrowz:
+  - Headless: 5 hours free per month
+  - PDF Conversions: 50 PDFs free per month
+* Web Client Hosting: 300,000 requests free per month
+* API Gateway: 100,000 API calls free per month
+* Data Store:
+  - Storage: 2 GB free per month
+  - Select: 10,000 requests free per month
+  - Update: 1,000 requests free per month
+  - Insert: 5,000 requests free per month
+  - Delete: 1,000 requests free per month
+* File Store:
+  - Storage: 5 GB free per month
+  - Download: 10,000 requests free per month
+  - Upload: 2,000 requests free per month
+* Cache:
+  - GET: 1,000 requests free per month
+  - PUT: 5,000 requests free per month
+  - UPDATE: 5,000 requests free per month
+* Mail: 100 emails free per month
+* Push Notifications: 500 notifications free per month
+* Search as a Service: 1,000 queries free per month
+* APM: 5,000 requests free per month
+* Automation Testing: 100 test cases free per month
+* Application Alerts: 100 alerts free per month
+
