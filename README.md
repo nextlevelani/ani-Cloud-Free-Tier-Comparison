@@ -322,3 +322,23 @@ Homepage: [Catalyst by Zoho Free Tier](https://catalyst.zoho.com/free-tier.html)
 * Automation Testing: 100 test cases free per month
 * Application Alerts: 100 alerts free per month
 
+**Slate**
+
+* Collaborators: Free per user
+* Caching & Delivery:
+  - Hosting - Storage (CDN Resources): 500 MB free
+  - Requests (CDN & Origin server): 300,000 requests free per month
+  - ISR Read: 100,000 requests free per month
+  - ISR Write: 50,000 requests free per month
+* Compute:
+  - Function Invocations: 25,000 GB-seconds free per month
+* Build:
+  - Build and Deploy (Large 2vCPU 4GB): 72,000 GB-seconds free per month
+
+**Stratus**
+
+- Upload: 1,000 calls free per month
+- Update: 1,000 calls free per month
+- Download: 10,000 calls free per month
+- Storage: 5 GB free per month
+
